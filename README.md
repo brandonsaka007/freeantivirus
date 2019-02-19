@@ -1,2 +1,2 @@
 # freeantivirus
-**FREE ANTI NOOB RED TEAM TOOL**
+**FREE ANTI RED TEAM TOOL**
